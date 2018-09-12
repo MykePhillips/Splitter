@@ -13,6 +13,7 @@
 		BE200FB42148E5C4002D6091 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE200FB22148E5C4002D6091 /* Main.storyboard */; };
 		BE200FB62148E5C7002D6091 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE200FB52148E5C7002D6091 /* Assets.xcassets */; };
 		BE200FB92148E5C7002D6091 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE200FB72148E5C7002D6091 /* LaunchScreen.storyboard */; };
+		BE200FC12148E71F002D6091 /* Images+Names+Colours.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE200FC02148E71F002D6091 /* Images+Names+Colours.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BE200FB52148E5C7002D6091 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE200FB82148E5C7002D6091 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE200FBA2148E5C7002D6091 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE200FC02148E71F002D6091 /* Images+Names+Colours.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Images+Names+Colours.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BE200FB52148E5C7002D6091 /* Assets.xcassets */,
 				BE200FB72148E5C7002D6091 /* LaunchScreen.storyboard */,
 				BE200FBA2148E5C7002D6091 /* Info.plist */,
+				BE200FC02148E71F002D6091 /* Images+Names+Colours.swift */,
 			);
 			path = Splitter;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE200FC12148E71F002D6091 /* Images+Names+Colours.swift in Sources */,
 				BE200FB12148E5C4002D6091 /* DetailViewController.swift in Sources */,
 				BE200FAF2148E5C4002D6091 /* MasterViewController.swift in Sources */,
 				BE200FAD2148E5C4002D6091 /* AppDelegate.swift in Sources */,
